@@ -4,6 +4,14 @@
 
 🌐 Site público: https://kelvengps7-coder.github.io/
 
+## Experimente
+
+- 🌐 [Site institucional](https://kelvengps7-coder.github.io/)
+- 🧪 [Demo sintética](https://kelvengps7-coder.github.io/demo.html)
+- 🤝 [Programa piloto](https://kelvengps7-coder.github.io/piloto.html)
+- 📘 [IA jurídica para contencioso](https://kelvengps7-coder.github.io/ia-juridica-contencioso.html)
+- 🧩 [Matriz fato-prova](https://kelvengps7-coder.github.io/matriz-fato-prova.html)
+
 ## Visão
 
 A Pesquisa Jurídica Profunda nasceu para reduzir a fragmentação do trabalho jurídico complexo. O projeto combina pesquisa, organização de fatos e provas, análise documental, validação de fontes, agentes e revisão humana em uma arquitetura única e rastreável.
@@ -78,6 +86,14 @@ Projeto iniciado em 2026 e em desenvolvimento ativo.
 
 > A Pesquisa Jurídica Profunda não substitui análise jurídica profissional, revisão humana ou aconselhamento jurídico individualizado.
 
+
+## Documentação pública
+
+- [Roadmap Público](./ROADMAP.md)
+- [Programa Piloto](./PILOT_PROGRAM.md)
+- [Segurança e Privacidade](./SECURITY.md)
+- [Política de Privacidade](./PRIVACY_POLICY.md)
+- [Termos de Uso — minuta](./TERMS_OF_USE_DRAFT.md)
 
 ## Documentação estratégica
 
