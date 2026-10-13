@@ -82,3 +82,11 @@ Este repositório é **estritamente institucional e público**. Não devem ser p
 Projeto iniciado em 2026 e em desenvolvimento ativo.
 
 > A Pesquisa Jurídica Profunda não substitui análise jurídica profissional, revisão humana ou aconselhamento jurídico individualizado.
+
+
+## Documentação estratégica
+
+- [Go-to-Market](./GO_TO_MARKET.md) — ICP, piloto, monetização, métricas e roadmap comercial.
+- [Programa Piloto](./PILOT_PROGRAM.md) — estrutura de validação com usuários reais.
+- [Segurança e Privacidade](./SECURITY.md) — limites do repositório público e requisitos para uso com dados reais.
+- [Domínio e E-mail](./DOMAIN_SETUP.md) — plano de migração para domínio próprio e e-mail corporativo.
