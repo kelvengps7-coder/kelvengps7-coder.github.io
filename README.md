@@ -9,6 +9,8 @@
 - 🌐 [Site institucional](https://kelvengps7-coder.github.io/)
 - 🧪 [Demo sintética](https://kelvengps7-coder.github.io/demo.html)
 - 🤝 [Programa piloto](https://kelvengps7-coder.github.io/piloto.html)
+- 🔐 [Trust center](https://kelvengps7-coder.github.io/seguranca.html)
+- 🔒 [Privacidade](https://kelvengps7-coder.github.io/privacidade.html)
 - 📘 [IA jurídica para contencioso](https://kelvengps7-coder.github.io/ia-juridica-contencioso.html)
 - 🧩 [Matriz fato-prova](https://kelvengps7-coder.github.io/matriz-fato-prova.html)
 
