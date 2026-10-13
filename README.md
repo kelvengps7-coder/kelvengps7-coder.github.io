@@ -97,11 +97,11 @@ Projeto iniciado em 2026 e em desenvolvimento ativo.
 - [Política de Privacidade](./PRIVACY_POLICY.md)
 - [Termos de Uso — minuta](./TERMS_OF_USE_DRAFT.md)
 
-## Documentação estratégica
+## Materiais públicos
 
-- [One‑Pager](./ONE_PAGER.md) — visão executiva do projeto para parceiros e programas.
-
-- [Programa Piloto](./PILOT_PROGRAM.md) — estrutura de validação com usuários reais.
-- [Segurança e Privacidade](./SECURITY.md) — limites do repositório público e requisitos para uso com dados reais.
+- [One‑Pager](./ONE_PAGER.md) — visão executiva do projeto.
+- [Roadmap Público](./ROADMAP.md) — evolução de alto nível.
+- [Programa Piloto](./PILOT_PROGRAM.md) — estrutura pública de validação.
+- [Segurança e Privacidade](./SECURITY.md) — princípios e limites do repositório público.
 - [Política de Privacidade](./PRIVACY_POLICY.md) — minuta institucional pré-comercial.
 - [Termos de Uso](./TERMS_OF_USE_DRAFT.md) — minuta de preparação para lançamento.
