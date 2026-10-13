@@ -35,14 +35,9 @@ O objetivo de longo prazo é evoluir de ferramenta interna para produto capaz de
 - departamentos jurídicos empresariais;
 - times que lidam com pesquisa, revisão e grandes volumes documentais.
 
-## Hipóteses de modelo de negócio
+## Evolução do produto
 
-Ainda não existe produto comercial acabado. As hipóteses em estudo incluem:
-
-- assinatura SaaS por usuário/equipe;
-- implantação B2B para fluxos específicos;
-- integrações e API para sistemas jurídicos e documentais;
-- projetos-piloto com parceiros de validação.
+A Pesquisa Jurídica Profunda está em desenvolvimento ativo. A prioridade atual é validar um fluxo contencioso rastreável com usuários profissionais antes de qualquer expansão comercial.
 
 ## Roadmap público
 
@@ -87,11 +82,8 @@ Projeto iniciado em 2026 e em desenvolvimento ativo.
 ## Documentação estratégica
 
 - [One‑Pager](./ONE_PAGER.md) — visão executiva do projeto para parceiros e programas.
-- [Prontidão Comercial](./COMMERCIAL_READINESS.md) — checklist antes da primeira receita.
 
-- [Go-to-Market](./GO_TO_MARKET.md) — ICP, piloto, monetização, métricas e roadmap comercial.
 - [Programa Piloto](./PILOT_PROGRAM.md) — estrutura de validação com usuários reais.
 - [Segurança e Privacidade](./SECURITY.md) — limites do repositório público e requisitos para uso com dados reais.
 - [Política de Privacidade](./PRIVACY_POLICY.md) — minuta institucional pré-comercial.
 - [Termos de Uso](./TERMS_OF_USE_DRAFT.md) — minuta de preparação para lançamento.
-- [Domínio e E-mail](./DOMAIN_SETUP.md) — plano de migração para domínio próprio e e-mail corporativo.
