@@ -86,6 +86,9 @@ Projeto iniciado em 2026 e em desenvolvimento ativo.
 
 ## Documentação estratégica
 
+- [One‑Pager](./ONE_PAGER.md) — visão executiva do projeto para parceiros e programas.
+- [Prontidão Comercial](./COMMERCIAL_READINESS.md) — checklist antes da primeira receita.
+
 - [Go-to-Market](./GO_TO_MARKET.md) — ICP, piloto, monetização, métricas e roadmap comercial.
 - [Programa Piloto](./PILOT_PROGRAM.md) — estrutura de validação com usuários reais.
 - [Segurança e Privacidade](./SECURITY.md) — limites do repositório público e requisitos para uso com dados reais.
